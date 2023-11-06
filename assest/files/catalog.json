@@ -1,0 +1,46 @@
+{
+  "products" :[
+    {
+      "id": "01",
+      "name" : "IQOO NEO 6",
+      "desc": "with snapdragon 870",
+      "price": 32000,
+      "color": "#33505a",
+      "image": "https://emibaba.com/wp-content/uploads/2023/06/iQOO-Neo-6-5G-1.jpg"
+    },
+    {
+      "id": "02",
+      "name" : "OnePlus 11R",
+      "desc": "with snapdragon 8+ Gen 1",
+      "price": 45000,
+      "color": "#33505a",
+      "image": "https://m.media-amazon.com/images/I/613SAOPmLeL._SX679_.jpg"
+    },
+    {
+      "id": "03",
+      "name" : "Iphone 15 pro max",
+      "desc": "with A17 pro",
+      "price": 160000,
+      "color": "#33505a",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1695113801-apple-iphone-15-pro-lineup-white-titanium-twitter-650961d6e60d6.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+      "id": "04",
+      "name" : "Redmi note 12 pro 5g",
+      "desc": "with MediaTek Dimensity 1080 5G",
+      "price": 23000,
+      "color": "#33505a",
+      "image": "https://suprememobiles.in/cdn/shop/products/1_4bfc29ae-26b4-4b75-a86d-168401a04856_1024x1024.jpg?v=1673510977"
+    },
+    {
+      "id": "05",
+      "name" : "Samsung S23 Ultra",
+      "desc": "with snapdragon 8 gen 2",
+      "price": 122000,
+      "color": "#33505a",
+      "image": "https://m.media-amazon.com/images/I/41WpkxwZ+WL._SY300_SX300_.jpg"
+
+    }
+
+]
+}
